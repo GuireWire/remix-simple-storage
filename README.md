@@ -1,4 +1,4 @@
-This is part of the Cyfrin Solidity Blockchain Course.
+This is part of the Cyfrin Solidity Blockchain Course. Specifically Course 2 Section 1.
 
 ## Deployed Contracts:
 
