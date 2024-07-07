@@ -1,12 +1,4 @@
-This is part of the Cyfrin Solidity Blockchain Course. Specifically Course 2 Section 1.
-
-Previously completed Course 1 - Blockchain Basics.
-
-## Course 1 - Lesson (NFT) - Sepolia
-Transaction Hash: 0xf0455e88f78ac7f0cd012c26cbe498f6ad06f53a2eb5e18a86a6bd4b87d93b73
-
-## Course 2 - Lesson (NFT) - Sepolia
-Transaction Hash: 0xe7af3755d1bc9a572b7d5d3f0ad671d1023a1b9a3c735b1dc95c5196d8b15f23
+This is part of the Cyfrin Solidity Blockchain Course - Smart Contracct Development with Solidity - Course 2 Section 1 - Simple Storage.
 
 ## Deployed Contracts:
 
